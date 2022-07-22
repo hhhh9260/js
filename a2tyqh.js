@@ -11,7 +11,7 @@
 
  [task_local]
  #统一茄皇
- 10 12,18 * * *  https://raw.githubusercontent.com/LinYuanovo/scripts/main/tyqh.js, tag=统一茄皇, enabled=true
+ 10 12,18,19 * * *  https://raw.githubusercontent.com/LinYuanovo/scripts/main/tyqh.js, tag=统一茄皇, enabled=true
  [rewrite_local]
  http://api.xiaoyisz.com/qiehuang/ga/public/api/login url script-request-header https://raw.githubusercontent.com/LinYuanovo/scripts/main/tyqh.js
  [MITM]
