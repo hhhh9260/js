@@ -35,7 +35,7 @@
  var uid; //randomcode
 
  //部落id//部落id//部落id//部落id //部落id//部落id
- var mygroupId='3689'; //部落id
+ var mygroupId='4140'; //部落id
 
 
 
